@@ -7,7 +7,7 @@ import android.widget.EditText
 import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
-
+    // Hellp
     // Declare view properties
     lateinit var displayTextView: TextView
     lateinit var nameEditText: EditText
